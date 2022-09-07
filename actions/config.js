@@ -7,8 +7,6 @@ module.exports = {
       orgId : "ECE34E785E54ED240A495C13@AdobeOrg", // Org ID
       clientSecret : "p8e-fQvm97WMnFwNiSgJI0jRUryUXj4GZpya", //Client Secret
       metaScopes : "ent_marketing_sdk", // Metascopes
-      privateKey : "-----BEGIN PRIVATE KEY-----\n" +
-      "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDiQZr7Bl5XUT5mD22cuKR+Ai3/\n" +
-      "-----END PRIVATE KEY-----\n"
+      privateKey : ""
   }
 }
